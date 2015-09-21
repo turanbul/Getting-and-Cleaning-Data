@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 Course project for Coursera
 
-##How the Script works
+## How the Script works
 
 The script **run_analysis.R** follows the same logical structure of the question 1.
 
