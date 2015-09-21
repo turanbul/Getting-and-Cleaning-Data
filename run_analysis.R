@@ -1,4 +1,4 @@
-#1. Merges the training and the test sets to create one data set.
+#1. Merge the training and the test sets to create one data set.
 
 ##Importing column names
 features=t(read.table(file="~/features.txt",header=FALSE))[2,]
